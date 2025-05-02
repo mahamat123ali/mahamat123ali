@@ -8,7 +8,7 @@ About Me 🚀
 I'm a passionate Web Developer with experience in Front-end Development and currently a Back-end Development stydent. I love learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: Information Technology and Back-end Development.
-- 🌍 Languages: JavaScript, PHP, SQL, HTML/CSS and French, English, Arabic.
+- 🌍 Languages: JavaScript, HTML/CSS and French, English, Arabic.
 - 📫 How to reach me: mahamataliabderaman235@gmail.com
 - ⚡ Fun fact: I have a passion for finding creative solutions to complex problems, whether it’s coding, designing, or tackling real-world challenges.  I’m always eager to learn new things and expand my skill set!
 
