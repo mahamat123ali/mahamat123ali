@@ -1,7 +1,5 @@
 Hi there, I'm MAHAMAT ALI ABDERAMAN! 👋
 
-!https://www.pinterest.com/pin/1118440888690067073/
-
 About Me 🚀
 
 I'm a passionate Web Developer with experience in Front-end Development and currently a Back-end Development stydent. I love learning new skills, and collaborating with diverse teams to create innovative solutions.
