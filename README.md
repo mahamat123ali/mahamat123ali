@@ -1,5 +1,8 @@
 Hi there, I'm MAHAMAT ALI ABDERAMAN! 👋
 
+![banner](https://github.com/user-attachments/assets/9ded5ad3-a008-474f-b11d-6fc547924967)
+
+
 About Me 🚀
 
 I'm a passionate Web Developer with experience in Front-end Development and currently a Back-end Development stydent. I love learning new skills, and collaborating with diverse teams to create innovative solutions.
